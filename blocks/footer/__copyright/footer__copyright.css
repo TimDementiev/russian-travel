@@ -1,0 +1,7 @@
+.footer__copyright {
+  min-width: max-content;
+  grid-column: 7;
+  font-size: 14px;
+  line-height: 16px;
+  align-self:center
+}

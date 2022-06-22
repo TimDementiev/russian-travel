@@ -10,3 +10,6 @@
   /* grid-template-rows: repeat(3, fit-content(100%)); */
   grid-template-rows: repeat(2, min-content);
 }
+.places__place:last-of-type {
+  padding: 0 0 92px;
+}
