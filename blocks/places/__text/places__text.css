@@ -1,0 +1,11 @@
+.places__text {
+  margin: 0;
+  padding: 0 0 26px;
+  font-size: 18px;
+  line-height: 29px;
+  color: #FFFFFF;
+}
+
+.places__text:last-of-type {
+  padding: 0;
+}
