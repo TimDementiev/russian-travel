@@ -6,4 +6,24 @@
     max-width: 640px;
     text-align: center;
   }
+  @media screen and (max-width: 1279px){
+    .lead__subtitle {
+      margin: 0 auto 56px;
+      padding: 0 0px 0 0;
+
+    }
+  }
+  @media screen and (max-width: 1023px){
+    .lead__subtitle {
+      margin: 0 auto 56px;
+
+    }
+  }
+  @media screen and (max-width: 767px){
+    .lead__subtitle {
+      margin: 0 auto 40px;
+      font-size: 16px;
+      line-height: 20px;
+    }
+  }
 

@@ -4,5 +4,14 @@
   list-style: none;
   display: grid;
   grid-template-columns: repeat(5, min-content) 1fr min-content;
+
   gap: 19px;
+}
+@media screen and (max-width: 767px) {
+  .footer__links {
+    display: flex;
+    flex-direction: column;
+    min-height: 310px;
+    gap: 0;
+  }
 }

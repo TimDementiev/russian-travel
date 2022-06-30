@@ -3,3 +3,24 @@
   /* max-width: 984px; */
   max-width: calc(100% - 296px);
 }
+
+@media screen and (max-width: 1279px) {
+  .places {
+    max-width: calc(100% - 96px);
+
+  }
+}
+
+@media screen and (max-width: 1023px) {
+  .places {
+    max-width: calc(100% - 48px);
+
+  }
+}
+
+@media screen and (max-width: 767px) {
+  .places {
+    max-width: 100%;
+
+  }
+}

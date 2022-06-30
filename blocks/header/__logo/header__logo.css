@@ -1,16 +1,28 @@
 .header__logo {
   padding: 0;
   margin: 0;
-  height: 48px;
+  min-height: 52px;
+  min-width: 176px;
   transition: opacity 0.2s ease-out;
+  background-image: url(../../../images/header-logo.svg);
 }
-
 .header__logo:hover {
   opacity: 0.8;
 }
-
-@media (max-width:768px) {
+@media screen and (max-width: 1279px){
   .header__logo {
-    height: 42px;
+
+  }
+}
+@media screen and (max-width: 1023px){
+  .header__logo {
+
+  }
+}
+@media screen and (max-width: 767px){
+  .header__logo {
+    min-height: 42px;
+    min-width: 142px;
+    background-size: cover;
   }
 }
