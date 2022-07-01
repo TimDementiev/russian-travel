@@ -4,10 +4,10 @@
   font-size: 14px;
   line-height: 16px;
   align-self:center;
+  justify-self: end;
 }
 @media screen and (max-width: 767px) {
   .footer__copyright  {
-    font-size: 14px;
     line-height: 14px;
     padding: 16px 0 0;
     align-self:flex-start;

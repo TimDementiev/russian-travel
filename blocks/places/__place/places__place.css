@@ -43,8 +43,5 @@
   .places__place:last-of-type {
     padding: 0 0 66px;
   }
-  .places__place:nth-of-type(1),.places__place:nth-of-type(4) {
-    padding: 0 0 76px;
-  }
 
 }
