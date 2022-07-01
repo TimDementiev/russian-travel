@@ -17,10 +17,12 @@
 * [Ссылка на макет в Figma](https://www.figma.com/file/5S2WSbEFL6awjVWJ0NWL8Q/Sprint-3_-Russia-_-desktop-mobile?node-id=28503%3A0)
 
 **Использованные технологии**
+
 * GRID Layout
 * Медиазапросы @media
 * Вычисляемые значения, функция calc()
 * Оптимизация картинок через сервис [Tinypng](https://tinypng.com/), для ускорения загрузки сайта.
 
 **Результат**
+
 Веб-страница выложена на gh-pages по [ссылке](https://timdementiev.github.io/russian-travel/Index.html)
